@@ -71,7 +71,7 @@ set laststatus=2
 " ------ Command-T ------
 noremap <leader>o <Esc>:CommandT<CR>
 noremap <leader>O <Esc>:CommandTFlush<CR>
-noremap <leader>m <Esc>:CommandTBuffer<CR>
+noremap <leader>b <Esc>:CommandTBuffer<CR>
 set wildignore=*.pyc,*~,*.class
 " -----------------------
 
