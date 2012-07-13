@@ -86,10 +86,3 @@ let NERDTreeIgnore=['\env','\.vim$', '\~$', '\.pyc$', '\.swp$', '\.egg-info$', '
 let NERDTreeSortOrder=['^__\.py$', '\/$', '*', '\.swp$', '\~$']
 let NERDTreeHightlightCursorline=1
 " ---------------------- 
-
-" ------ Eclim ------
-nnoremap <silent> <leader>i :JavaImport<cr>
-nnoremap <silent> <leader>I :JavaImportMissing<cr>
-nnoremap <silent> <leader>d :JavaDocSearch -x declarations<cr>
-nnoremap <silent> <cr> :JavaSearchContext<cr>
-" -------------------
