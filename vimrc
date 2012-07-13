@@ -33,9 +33,12 @@ set softtabstop=4
 set expandtab
 
 " Text width
-set textwidth=80
-set colorcolumn=79
+set textwidth=79
+set colorcolumn=80
 highlight ColorColumn ctermbg=4 guibg=gray23
+
+" nohl on ctrl+l
+nnoremap <C-L> :nohl<CR><C-L>
 
 " When the page starts to scroll, keep the cursor 8 lines from the top and 8
 " lines from the bottom
