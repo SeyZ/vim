@@ -76,7 +76,7 @@ set laststatus=2
 noremap <leader>o <Esc>:CommandT<CR>
 noremap <leader>O <Esc>:CommandTFlush<CR>
 noremap <leader>b <Esc>:CommandTBuffer<CR>
-set wildignore=*.pyc,*~,*.class
+set wildignore=*.pyc,*~,*.class,target/**,build/**
 " -----------------------
 
 " ------ NERDTree ------
