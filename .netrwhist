@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/seyz/videos'
+let g:netrw_dirhist_2='/home/seyz/workspace/external/aur/python2-sleekxmpp-devel'
+let g:netrw_dirhist_3='/home/seyz/workspace/external/aur/python2-pathtools-git'
+let g:netrw_dirhist_4='/tmp/sleekxmpp/legastero@baboon-devel.org'
+let g:netrw_dirhist_5='/home/seyz/workspace/internal/cortex-web/src/main/webapp'
+let g:netrw_dirhist_6='/home/seyz/workspace/internal/foo/public/javascripts'
+let g:netrw_dirhist_7='/home/seyz/.oh-my-zsh/plugins/autojump'
+let g:netrw_dirhist_8='/home/seyz/.config/awesome'

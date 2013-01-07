@@ -7,9 +7,6 @@
 [submodule "bundle/zenburn"]
 	path = bundle/zenburn
 	url = git://github.com/vim-scripts/Zenburn.git
-[submodule "bundle/pyflakes"]
-	path = bundle/pyflakes
-	url = git://github.com/kevinw/pyflakes-vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
@@ -19,9 +16,6 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
-[submodule "bundle/closetag"]
-	path = bundle/closetag
-	url = https://github.com/vim-scripts/closetag.vim
 [submodule "bundle/delimitmate"]
 	path = bundle/delimitmate
 	url = https://github.com/vim-scripts/delimitMate.vim
@@ -34,3 +28,21 @@
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = git://github.com/tpope/vim-surround.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = git://github.com/vim-scripts/ack.vim.git
+[submodule "bundle/rope"]
+	path = bundle/rope
+	url = git://github.com/klen/rope-vim.git
+[submodule "bundle/yankstack"]
+	path = bundle/yankstack
+	url = git://github.com/maxbrunsfeld/vim-yankstack.git
+[submodule "bundle/jade"]
+	path = bundle/jade
+	url = git://github.com/vim-scripts/jade.vim.git
+[submodule "bundle/vim-less"]
+	path = bundle/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git://github.com/vim-scripts/UltiSnips.git
